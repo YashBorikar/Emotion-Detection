@@ -17,7 +17,7 @@ Emotional Detection Model integrated with OpenCV to capture user facial expressi
 Engaging UI is developed using Flask Web Application
 
 ## Preview
-
+https://user-images.githubusercontent.com/96331104/154851239-49ee82ba-d11c-4bf4-9033-20d2cc96ef72.mp4
 
 # Installations
 Follow steps to use this project:
